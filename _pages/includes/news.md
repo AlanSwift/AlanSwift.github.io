@@ -1,9 +1,5 @@
 # 🔥 News
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.04*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+)
-- *2023.04*: 🎉 One paper ([Make-an-Audio](https://text-to-audio.github.io/)) is accepted by ICML 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: Three papers are accepted by ICLR 2023!
-- *2023.01*: I join [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist in Singapore!
-- *2022.12*: 🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 2000!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2023.09*: 🎉 We released [PromptTTS 2](https://speechresearch.github.io/prompttts2/), which is a large-scale TTS system using text prompt.
+- *2023.04*: 🎉 We are delighted to release our [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/), which is the first large-scale NAR TTS system. It can generate high-quality speech with only a 3-second prompt!
+- *2021/06*: 🎉 Check out our most recent survey paper, titled "Graph Neural Networks for Natural Language Processing: A Survey"! First comprehensive survey on GNNs for NLP!
+- *2021.06*: 🔥 We are delighted to release our [Graph4NLP Library](https://github.com/graph4ai/graph4nlp) (⭐️1.6k+), which is the first library for the easy use of GNNs for NLP!
