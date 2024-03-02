@@ -3,7 +3,7 @@
 ## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work in Progress</div><img src='images/ns2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='images/ns2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Naturalspeech 2: Latent diffusion models are natural and zero-shot speech and singing synthesizers](https://arxiv.org/pdf/2304.09116.pdf) \\
@@ -16,7 +16,7 @@
 </div>
 
 
-- ``Work in Progress`` [PromptTTS 2: Describing and Generating Voices with Text Prompt](https://arxiv.org/abs/2309.02285), Yichong Leng, Zhifang Guo, **Kai Shen**, Xu Tan, Zeqian Ju, Yanqing Liu, Yufei Liu, Dongchao Yang, Leying Zhang, Kaitao Song, Lei He, Xiang-Yang Li, Sheng Zhao, Tao Qin, Jiang Bian
+- ``ICLR 2024`` [PromptTTS 2: Describing and Generating Voices with Text Prompt](https://arxiv.org/abs/2309.02285), Yichong Leng, Zhifang Guo, **Kai Shen**, Xu Tan, Zeqian Ju, Yanqing Liu, Yufei Liu, Dongchao Yang, Leying Zhang, Kaitao Song, Lei He, Xiang-Yang Li, Sheng Zhao, Tao Qin, Jiang Bian
 - ``EMNLP 2023`` [Mask the correct tokens: An embarrassingly simple approach for error correction](https://arxiv.org/pdf/2211.13252.pdf), **Kai Shen**, Yichong Leng, Xu Tan, Siliang Tang, Yuan Zhang, Wenjie Liu, Edward Lin
 
 
