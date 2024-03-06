@@ -2,7 +2,7 @@ I am a Ph.D. student of Zhejiang University, supervised by [Prof. Siliang Tangï¼
 
 My research interest includes Text-to-Speech Synthesis, ASR Error Correction, Graph Neural Network and Neural Machine Translation. I have published 10 papers includes ICLR, NeurIPS, EMNLP, IJCAI, et.al.
 
-I have developed the first large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/).
+I have developed the first large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) and the advanced version [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/).
 
 I am the main contributor of [Graph4NLP project](https://github.com/graph4ai/graph4nlp). I am one of the book chapter contributors of the book "Graph Neural Networks: Foundations, Frontiers, and Applications". 
 

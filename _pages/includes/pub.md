@@ -2,12 +2,24 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work in progress</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100.pdf) \\
+Zeqian Ju\*, Yuancheng Wang\*, **Kai Shen\***, Xu Tan\*, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang, Zhizheng Wu, Tao Qin, Xiang-Yang Li, Wei Ye, Shikun Zhang, Jiang Bian, Lei He, Jinyu Li, Sheng Zhao
+
+[**Project**](https://speechresearch.github.io/naturalspeech3/)
+
+- NaturalSpeech 3 is the advanced version of NaturalSpeech serials with speech factorization.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='images/ns2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Naturalspeech 2: Latent diffusion models are natural and zero-shot speech and singing synthesizers](https://arxiv.org/pdf/2304.09116.pdf) \\
-**Kai Shen**, Zeqian Ju, Xu Tan, Yanqing Liu, Yichong Leng, Lei He, Tao Qin, Sheng Zhao, Jiang Bian
+**Kai Shen\***, Zeqian Ju\*, Xu Tan\*, Yanqing Liu, Yichong Leng, Lei He, Tao Qin, Sheng Zhao, Jiang Bian
 
 [**Project**](https://speechresearch.github.io/naturalspeech2/)
 
