@@ -1,4 +1,4 @@
-I am a Ph.D. student of Zhejiang University, supervised by [Prof. Siliang Tang（汤斯亮）](https://person.zju.edu.cn/siliang/684099.html) and [Prof. Yueting Zhuang（庄越挺）](https://person.zju.edu.cn/yzhuang). I obtained my B.S. degree at Zhejiang University. I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/) from Microsoft Research Asia and [Lingfei Wu (吴凌飞)](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) from Pinterest closely.
+I am a Ph.D. student of Zhejiang University, supervised by [Prof. Siliang Tang（汤斯亮）](https://person.zju.edu.cn/siliang/684099.html) and [Prof. Yueting Zhuang（庄越挺）](https://person.zju.edu.cn/yzhuang). I obtained my B.S. degree at Zhejiang University. I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/) from Microsoft Research Asia and [Lingfei Wu (吴凌飞)](https://sites.google.com/a/email.wm.edu/teddy-lfwu/).
 
 My research interest includes Text-to-Speech Synthesis, ASR Error Correction, Graph Neural Network and Neural Machine Translation. I have published 10 papers includes ICLR, NeurIPS, EMNLP, IJCAI, et.al.
 
