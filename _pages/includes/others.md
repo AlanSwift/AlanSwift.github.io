@@ -6,6 +6,6 @@
 
 
 # 💻 Internships
-- *2022.03 - 2023.09*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
+- *2022.03 - 2023.09*, [MSRA, Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
 - *2021.04 - 2022.03*, JD.com, Beijing.
 - *2018.06 - 2019.02*, [YiWise](https://www.yiwise.com/), Hangzhou.

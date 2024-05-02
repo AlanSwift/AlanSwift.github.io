@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Work in progress</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100.pdf) \\
