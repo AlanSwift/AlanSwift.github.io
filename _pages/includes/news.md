@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024!
+- *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024 as Oral presentation!
 - *2024.03*: 🎉 We are delighted to released [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/), which is a advanced version of NaturalSpeech series with speech factorization.
 - *2024.01*: 🎉 NaturalSpeech 2 and PromptTTS 2 are accepted by ICLR2024 for Spotlight and Poster presentation!
 - *2023.09*: 🎉 We released [PromptTTS 2](https://speechresearch.github.io/prompttts2/), which is a large-scale TTS system using text prompt.
