@@ -6,5 +6,5 @@ I have developed the first large-scale non-autoregressive text-to-Speech synthes
 
 I am the main contributor of [Graph4NLP project](https://github.com/graph4ai/graph4nlp). I am one of the book chapter contributors of the book "Graph Neural Networks: Foundations, Frontiers, and Applications". 
 
-I am expected to graduate in June 2024 and seeking job opportunities. Please feel free to [contact me](mailto:shenkai200861@gmail.com) if you are interested!
+<!-- I am expected to graduate in June 2024 and seeking job opportunities. Please feel free to [contact me](mailto:shenkai200861@gmail.com) if you are interested! -->
 

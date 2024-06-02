@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100.pdf) \\
@@ -27,6 +27,7 @@ Zeqian Ju\*, Yuancheng Wang\*, **Kai Shen\***, Xu Tan\*, Detai Xin, Dongchao Yan
 </div>
 </div>
 
+- ``Work in Progress`` [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](https://arxiv.org/pdf/2404.03204), Detai Xin, Xu Tan, **Kai Shen**, Zeqian Ju, Dongchao Yang, Yuancheng Wang, Shinnosuke Takamichi, Hiroshi Saruwatari, Shujie Liu, Jinyu Li, Sheng Zhao
 
 - ``ICLR 2024`` [PromptTTS 2: Describing and Generating Voices with Text Prompt](https://arxiv.org/abs/2309.02285), Yichong Leng, Zhifang Guo, **Kai Shen**, Xu Tan, Zeqian Ju, Yanqing Liu, Yufei Liu, Dongchao Yang, Leying Zhang, Kaitao Song, Lei He, Xiang-Yang Li, Sheng Zhao, Tao Qin, Jiang Bian
 - ``EMNLP 2023`` [Mask the correct tokens: An embarrassingly simple approach for error correction](https://arxiv.org/pdf/2211.13252.pdf), **Kai Shen**, Yichong Leng, Xu Tan, Siliang Tang, Yuan Zhang, Wenjie Liu, Edward Lin
@@ -35,7 +36,6 @@ Zeqian Ju\*, Yuancheng Wang\*, **Kai Shen\***, Xu Tan\*, Detai Xin, Dongchao Yan
 
 ## 📚 Machine Translation 
 - ``Work in Progress`` [A Study on ReLU and Softmax in Transformer](https://arxiv.org/pdf/2302.06461.pdf), **Kai Shen**, Junliang Guo, Xu Tan, Siliang Tang, Rui Wang, Jiang Bian
-
 
 
 ## 🧑‍🎨 Graph Neural Network
@@ -61,4 +61,5 @@ Lingfei Wu, Yu Chen, **Kai Shen**(First Student Author), Xiaojie Guo, Hanning Ga
 - ``Graph Neural Networks: Foundations, Frontiers, and Applications`` [Graph Neural Networks in Computer Vision](https://proceedings.neurips.cc/paper/2021/file/60792d855cd8a912a97711f91a1f155c-Paper.pdf), Siliang Tang, Wenqiao Zhang, Zongshen Mu, **Kai Shen**, Juncheng Li, Jiacheng Li, Lingfei Wu
 
 ## Others
+- ``ACL 2024 (Main Conference)`` [T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text](), Aoxiong Yin, Haoyuan Li, **Kai Shen**, Siliang Tang, Yueting Zhuang
 - ``Preprint`` [Scenario-based Multi-product Advertising Copywriting Generation for E-Commerce](https://arxiv.org/pdf/2205.10530), Xueying Zhang, **Kai Shen**, Chi Zhang, Xiaochuan Fan, Yun Xiao, Zhen He, Bo Long, Lingfei Wu
