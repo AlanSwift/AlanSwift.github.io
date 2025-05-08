@@ -1,11 +1,9 @@
 # 🔥 News
 - *2025.04*: 🎉 We are delighted to release [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio?tab=readme-ov-file), which is an open-source audio foundation model excelling in audio understanding, generation, and conversation.
-- *2025.03*: 🎉 We are delighted to release [LanDiff](https://landiff.github.io/), which a novel text-to-video generation framework that synergizes the strengths of Language Models and Diffusion Models.
-- *2025.03*: 🎉 We are delighted to release [MoonCast](https://mooncastdemo.github.io/), which is a high-quality zero-shot podcast generation system.
+- *2025.03*: 🎉 We are delighted to release [LanDiff](https://landiff.github.io/), which a novel text-to-video generation framework that synergizes the strengths of Language Models and Diffusion Models. We are delighted to release [MoonCast](https://mooncastdemo.github.io/), which is a high-quality zero-shot podcast generation system.
 - *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024 as Oral presentation! 1 Paper is accepted by ACL 2024 main conference.
 - *2024.03*: 🎉 We are delighted to released [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/), which is a advanced version of NaturalSpeech series with speech factorization.
 - *2024.01*: 🎉 NaturalSpeech 2 and PromptTTS 2 are accepted by ICLR2024 for Spotlight and Poster presentation!
 - *2023.09*: 🎉 We released [PromptTTS 2](https://speechresearch.github.io/prompttts2/), which is a large-scale TTS system using text prompt.
 - *2023.04*: 🎉 We are delighted to release our [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/), which is the first large-scale NAR TTS system. It can generate high-quality speech with only a 3-second prompt!
-- *2021/06*: 🎉 Check out our most recent survey paper, titled "Graph Neural Networks for Natural Language Processing: A Survey"! First comprehensive survey on GNNs for NLP!
-- *2021.06*: 🔥 We are delighted to release our [Graph4NLP Library](https://github.com/graph4ai/graph4nlp) (⭐️1.6k+), which is the first library for the easy use of GNNs for NLP!
+- *2021.06*: 🔥 We are delighted to release our [Graph4NLP Library](https://github.com/graph4ai/graph4nlp) (⭐️1.6k+), which is the first library for the easy use of GNNs for NLP! Also check out our most recent survey paper, titled "Graph Neural Networks for Natural Language Processing: A Survey"! First comprehensive survey on GNNs for NLP!

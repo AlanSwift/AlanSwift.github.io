@@ -11,6 +11,9 @@ Kimi Team
 [**Project**](https://github.com/MoonshotAI/Kimi-Audio)
 
 - We present Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation. This repository contains the official implementation, models, and evaluation toolkit for Kimi-Audio.
+- Kimi-Audio is pre-trained on over 13 million hours of diverse audio data (speech, music, sounds) and text data, and achieve SOTA results on numerous audio benchmarks.
+- Find out the official [codes and weights](https://github.com/MoonshotAI/Kimi-Audio).
+- We also developed and open-sourced an [Evaluation Toolkit](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) to reproduce all baselines and our model's results easily.
 </div>
 </div>
 
