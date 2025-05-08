@@ -1,4 +1,7 @@
 # 🔥 News
+- *2025.04*: 🎉 We are delighted to release [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio?tab=readme-ov-file), which is an open-source audio foundation model excelling in audio understanding, generation, and conversation.
+- *2025.03*: 🎉 We are delighted to release [LanDiff](https://landiff.github.io/), which a novel text-to-video generation framework that synergizes the strengths of Language Models and Diffusion Models.
+- *2025.03*: 🎉 We are delighted to release [MoonCast](https://mooncastdemo.github.io/), which is a high-quality zero-shot podcast generation system.
 - *2024.05*: 🎉 NaturalSpeech 3 is accepted by ICML2024 as Oral presentation! 1 Paper is accepted by ACL 2024 main conference.
 - *2024.03*: 🎉 We are delighted to released [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/), which is a advanced version of NaturalSpeech series with speech factorization.
 - *2024.01*: 🎉 NaturalSpeech 2 and PromptTTS 2 are accepted by ICLR2024 for Spotlight and Poster presentation!

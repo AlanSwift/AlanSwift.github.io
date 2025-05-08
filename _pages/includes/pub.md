@@ -2,6 +2,18 @@
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report</div><img src='images/kimia_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kimi-Audio Technical Report](https://arxiv.org/pdf/2504.18425) \\
+Kimi Team
+
+[**Project**](https://github.com/MoonshotAI/Kimi-Audio)
+
+- We present Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation. This repository contains the official implementation, models, and evaluation toolkit for Kimi-Audio.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/ns3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -26,6 +38,9 @@ Zeqian Ju\*, Yuancheng Wang\*, **Kai Shen\***, Xu Tan\*, Detai Xin, Dongchao Yan
 - NaturalSpeech 2 is the first large-scale non-autoregressive text-to-speech synthesis system. It can generate high-quality speech with only a 3-second prompt!
 </div>
 </div>
+
+- ``Work in Progress`` [MoonCast: High-Quality Zero-Shot Podcast Generation](https://arxiv.org/pdf/2503.14345), Zeqian Ju, Dongchao Yang, Jianwei Yu, **Kai Shen**, Yichong Leng, Zhengtao Wang, Xu Tan, Xinyu Zhou, Tao Qin, Xiangyang Li, [Code](https://github.com/jzq2000/MoonCast?tab=readme-ov-file)
+
 
 - ``Work in Progress`` [RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis](https://arxiv.org/pdf/2404.03204), Detai Xin, Xu Tan, **Kai Shen**, Zeqian Ju, Dongchao Yang, Yuancheng Wang, Shinnosuke Takamichi, Hiroshi Saruwatari, Shujie Liu, Jinyu Li, Sheng Zhao
 
@@ -61,5 +76,6 @@ Lingfei Wu, Yu Chen, **Kai Shen**(First Student Author), Xiaojie Guo, Hanning Ga
 - ``Graph Neural Networks: Foundations, Frontiers, and Applications`` [Graph Neural Networks in Computer Vision](https://proceedings.neurips.cc/paper/2021/file/60792d855cd8a912a97711f91a1f155c-Paper.pdf), Siliang Tang, Wenqiao Zhang, Zongshen Mu, **Kai Shen**, Juncheng Li, Jiacheng Li, Lingfei Wu
 
 ## Others
-- ``ACL 2024 (Main Conference)`` [T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text](), Aoxiong Yin, Haoyuan Li, **Kai Shen**, Siliang Tang, Yueting Zhuang
+- ``Work in Progress`` [The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation](https://arxiv.org/pdf/2503.04606), Aoxiong Yin, **Kai Shen**, Yichong Leng, Xu Tan, Xinyu Zhou, Juncheng Li, Siliang Tang, [Code](https://github.com/LanDiff/LanDiff)
+- ``ACL 2024 (Main Conference)`` [T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text](https://arxiv.org/pdf/2406.07119), Aoxiong Yin, Haoyuan Li, **Kai Shen**, Siliang Tang, Yueting Zhuang
 - ``Preprint`` [Scenario-based Multi-product Advertising Copywriting Generation for E-Commerce](https://arxiv.org/pdf/2205.10530), Xueying Zhang, **Kai Shen**, Chi Zhang, Xiaochuan Fan, Yun Xiao, Zhen He, Bo Long, Lingfei Wu
