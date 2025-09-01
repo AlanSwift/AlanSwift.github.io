@@ -7,5 +7,5 @@ I obtained my Ph.D. degree at Zhejiang University, supervised by [Prof. Siliang 
 
 My research interest includes multimodal LLM, Text-to-Speech Synthesis, ASR Error Correction, Graph Neural Network and Neural Machine Translation. I have published 10+ papers includes ICML, ICLR, NeurIPS, EMNLP, IJCAI, et.al.
 
-I have developed: 1. the large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) and the advanced version [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/) when in MSRA; 2. the SOTA audio foundation model [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio).
+I have developed: 1. the large-scale non-autoregressive text-to-Speech synthesis system [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) and the advanced version [NaturalSpeech 3](https://speechresearch.github.io/naturalspeech3/) when in MSRA; 2. the SOTA audio foundation model [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) when in Moonshot.AI.
 
